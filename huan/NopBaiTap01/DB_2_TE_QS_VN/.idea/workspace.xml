@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42a1a407-e336-4bb4-a0cb-b5381ce13eb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UDECAday02/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9e742563-5062-4b8e-bd87-0e8cf4845299" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../UDECAday01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UDECAday02/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +26,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2bdyff3WN39FpXG48DNHcMZIGPm" />
+  <component name="ProjectId" id="2cZEXeMJOSosGwI6JtcnDtsynOF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,19 +34,14 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ngovanhuan/java-training/huan/NopBaiTap01/UDECAday01&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;53cf0f2582efdd8b506c5e66b8b26255&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d1a996a5f6d3836f22644b2d2544262d&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -55,23 +50,15 @@
     ]
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="UDECAday01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Database Script.console.sql">
+    <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/efc6521a-8558-4f83-a101-59ff433709e8/console.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="UDECAday01" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UdecAday01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="UDECAday01" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.udecaday01.UdecAday01Application" />
+    <configuration name="Db2TeQsVnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="DB_2_TE_QS_VN" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.db_2_te_qs_vn.Db2TeQsVnApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,23 +67,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="42a1a407-e336-4bb4-a0cb-b5381ce13eb2" name="Changes" comment="" />
-      <created>1706559356669</created>
+      <changelist id="9e742563-5062-4b8e-bd87-0e8cf4845299" name="Changes" comment="" />
+      <created>1708310742531</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1706559356669</updated>
-      <workItem from="1706559357883" duration="579000" />
-      <workItem from="1706560084008" duration="90000" />
-      <workItem from="1706560184764" duration="548000" />
-      <workItem from="1706560848900" duration="79000" />
-      <workItem from="1706560935794" duration="1923000" />
-      <workItem from="1706577421180" duration="1210000" />
-      <workItem from="1706581907310" duration="208000" />
-      <workItem from="1706582176382" duration="326000" />
-      <workItem from="1706582599319" duration="3383000" />
-      <workItem from="1706635125780" duration="1789000" />
-      <workItem from="1706678000254" duration="597000" />
-      <workItem from="1706837721091" duration="1343000" />
+      <updated>1708310742531</updated>
+      <workItem from="1708310744069" duration="30000" />
+      <workItem from="1708310778741" duration="12613000" />
+      <workItem from="1708324979478" duration="8545000" />
+      <workItem from="1708333642957" duration="605000" />
+      <workItem from="1708334252388" duration="607000" />
     </task>
     <servers />
   </component>
